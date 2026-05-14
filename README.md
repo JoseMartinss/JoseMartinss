@@ -5,7 +5,7 @@ Aqui irei postar a maioria dos projetos em que eu estarei desenvolvendo.
 
 ### Linguagens de Programação
 - C
-- Python
+  
 
 ### Idiomas
 - Inglês
