@@ -7,15 +7,6 @@ Aqui irei postar a maioria dos projetos em que eu estarei desenvolvendo.
 - C
   
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-  
-  <img src="https://vercel.app" alt="Linguagens mais utilizadas" />
-  
-  <img src="https://vercel.app" alt="Repositório em destaque" />
-</div>
-
-<br>
 
 
 
