@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-
+- 📚 Graduando em Engenharia da Computação no CESUPA
 - 🛠️ Atualmente trabalhando em projetos pessoais e expandindo meu portfólio.
 - 📚 Estudando Java e aprimorando C
 
