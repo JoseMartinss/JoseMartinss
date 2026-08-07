@@ -38,12 +38,6 @@
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <!-- GitHub Readme Stats Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoseMartinss&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estatísticas do GitHub de José Martins" />
-  &nbsp;&nbsp;
-  
-
-<p align="center">
   <!-- GitHub Streak Stats Card -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMartinss&theme=tokyonight&hide_border=false" alt="GitHub Streak de José Martins" />
 </p>
