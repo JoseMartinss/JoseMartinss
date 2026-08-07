@@ -41,9 +41,7 @@
   <!-- GitHub Readme Stats Card -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoseMartinss&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estatísticas do GitHub de José Martins" />
   &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMartinss&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens Mais Utilizadas" />
-</p>
+  
 
 <p align="center">
   <!-- GitHub Streak Stats Card -->
