@@ -11,10 +11,10 @@
 ### 🚀 Sobre Mim
 
 - 📚 Graduando em Engenharia da Computação no CESUPA
-- 🛠️ Atualmente trabalhando em projetos pessoais e expandindo meu portfólio.
-- 📚 Aprimorando minhas habilidades em Backend, estudando Frontend.
-- 🛠️ Ansioso e me preparando para uma primeira oportunidade de emprego!
-- 📚 Aprimorando habilidades em Java, C, Node.js e etc.
+- 🛠️ Desenvolvedor Backend
+- 📚 Aprimorando minhas habilidades em Backend e Dados
+- 🛠️ Desenvolvendo projetos universitários e para portfólio pessoal
+
 
 
 ---
