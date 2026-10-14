@@ -11,7 +11,7 @@
 ### 🚀 Sobre Mim
 
 - 📚 Graduando em Engenharia da Computação
-- 🛠️ Atual estou estudando/aprimorando os meus conhecimentos em Java e Dados
+- 🛠️ Atualmente estou estudando/aprimorando os meus conhecimentos em Java e Dados
 - 🛠️ Uso esse perfil pra publicar meus trabalhos e projetos diversos
 
 
