@@ -10,10 +10,9 @@
 
 ### 🚀 Sobre Mim
 
-- 📚 Graduando em Engenharia da Computação no CESUPA
-- 🛠️ Desenvolvedor Backend
-- 📚 Aprimorando minhas habilidades em Backend e Dados
-- 🛠️ Desenvolvendo projetos universitários e para portfólio pessoal
+- 📚 Graduando em Engenharia da Computação
+- 🛠️ Atual estou estudando/aprimorando os meus conhecimentos em Java e Dados
+- 🛠️ Uso esse perfil pra publicar meus trabalhos e projetos diversos
 
 
 
@@ -33,17 +32,6 @@
 
 
 ---
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <!-- GitHub Streak Stats Card -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMartinss&theme=tokyonight&hide_border=false" alt="GitHub Streak de José Martins" />
-</p>
-
----
-
-
 
 ### 🤝 Vamos nos conectar?
 
