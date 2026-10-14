@@ -48,8 +48,6 @@
 ### 🤝 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://github.com/JoseMartinss">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  Linkedin: www.linkedin.com/in/josé-martins-dev
 </p>
 
