@@ -36,6 +36,7 @@
 ### 🤝 Vamos nos conectar?
 
 <p align="center">
+  Gosto de trocar ideias sobre a área tech e aprender novas coisas, só me chamar.
   Linkedin: www.linkedin.com/in/josé-martins-dev
 </p>
 
